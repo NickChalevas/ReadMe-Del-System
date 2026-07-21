@@ -112,6 +112,3 @@
 
 ---
 
-# Εγκατάσταση εξαρτήσεων Backend (παράδειγμα με Python)
-pip install -r requirements.txt
-```
