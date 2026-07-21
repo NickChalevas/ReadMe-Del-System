@@ -112,14 +112,6 @@
 
 ---
 
-## 🛠️ Οδηγίες Εγκατάστασης & Εκτέλεσης
-
-### 1. Clone & Setup Environment
-```bash
-# Clone το repository
-git clone [https://github.com/your-repo/restaurant-pos.git](https://github.com/your-repo/restaurant-pos.git)
-cd restaurant-pos
-
 # Εγκατάσταση εξαρτήσεων Backend (παράδειγμα με Python)
 pip install -r requirements.txt
 ```
